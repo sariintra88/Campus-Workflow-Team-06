@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/tag3.md",
+                "file": "คำที่พูดมา เยียวยากว่าโซจู.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tag3"
+              "title": "คำที่พูดมา เยียวยากว่าโซจู"
             }
           },
           {
-            "id": "6d763ce7827aadd5",
+            "id": "2f3e687228055ef1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -196,10 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d763ce7827aadd5",
+  "active": "d78f059c7363156d",
   "lastOpenFiles": [
-    "Templates/tag3.md",
+    "conflict-files-obsidian-git.md",
+    "คำที่พูดมา เยียวยากว่าโซจู.md",
     "กาลครั้งหนึ่ง...ถึงเธอ.md",
+    "Templates/tag3.md",
     "Tasks/tag2.md",
     "Reports/tag1.md",
     "README.md",
