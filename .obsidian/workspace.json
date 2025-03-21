@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/tag3.md",
+                "file": "Paulo Coelho ภาพวาดแห่งสันติสุข.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tag3"
-            }
-          },
-          {
-            "id": "6d763ce7827aadd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Old Man and the Sea.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Old Man and the Sea"
-            }
-          },
-          {
-            "id": "36b86a3a100239ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "จิตวิทยาสบายใจ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "จิตวิทยาสบายใจ"
+              "title": "Paulo Coelho ภาพวาดแห่งสันติสุข"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -199,24 +170,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "switcher:เปิด quick switcher": false,
+      "graph:เปิดมุมมองกราฟ": false,
+      "daily-notes:เปิดโน้ตของวันนี้": false,
+      "templates:แทรกเทมเพลต": false,
+      "command-palette:เปิดกระดานคำสั่ง": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36b86a3a100239ce",
+  "active": "658fdb5a79f9c94c",
   "lastOpenFiles": [
-    "The Old Man and the Sea.md",
-    "กาลครั้งหนึ่ง...ถึงเธอ.md",
-    "จิตวิทยาสบายใจ.md",
-    "คำที่พูดมา เยียวยากว่าโซจู.md",
     "Templates/tag3.md",
+    "The Old Man and the Sea.md",
+    "Paulo Coelho ภาพวาดแห่งสันติสุข.md",
+    "จิตวิทยาสบายใจ.md",
+    "กาลครั้งหนึ่ง...ถึงเธอ.md",
+    "คำที่พูดมา เยียวยากว่าโซจู.md",
     "Tasks/tag2.md",
     "Reports/tag1.md",
     "README.md",
