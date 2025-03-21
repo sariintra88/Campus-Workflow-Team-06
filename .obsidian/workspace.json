@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "กาลครั้งหนึ่ง...ถึงเธอ.md",
+                "file": "The Old Man and the Sea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "กาลครั้งหนึ่ง...ถึงเธอ"
+              "title": "The Old Man and the Sea"
             }
           }
         ],
@@ -196,11 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "518472828f8d11be",
+  "active": "6d763ce7827aadd5",
   "lastOpenFiles": [
-    "คำที่พูดมา เยียวยากว่าโซจู.md",
-    "Templates/tag3.md",
     "กาลครั้งหนึ่ง...ถึงเธอ.md",
+    "คำที่พูดมา เยียวยากว่าโซจู.md",
+    "The Old Man and the Sea.md",
+    "Templates/tag3.md",
     "Tasks/tag2.md",
     "Reports/tag1.md",
     "README.md",
