@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Paulo Coelho ภาพวาดแห่งสันติสุข"
             }
+          },
+          {
+            "id": "d32a7a2b29685447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,11 +210,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d78f059c7363156d",
+  "active": "d32a7a2b29685447",
   "lastOpenFiles": [
+    "Reports/Paulo Coelho ภาพวาดแห่งสันติสุข.md",
+    "Untitled.md",
     "Reports/The Old Man and the Sea.md",
     "conflict-files-obsidian-git.md",
-    "Reports/Paulo Coelho ภาพวาดแห่งสันติสุข.md",
     "Reports/กาลครั้งหนึ่ง...ถึงเธอ.md",
     "README.md",
     "Reports/คำที่พูดมา เยียวยากว่าโซจู.md",
