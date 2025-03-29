@@ -13,11 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/tag3.md",
+                "file": "Paulo Coelho ภาพวาดแห่งสันติสุข.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "tag3"
             }
           },
@@ -37,6 +38,12 @@
           }
         ],
         "currentTab": 1
+=======
+              "title": "Paulo Coelho ภาพวาดแห่งสันติสุข"
+            }
+          }
+        ]
+>>>>>>> origin/main
       }
     ],
     "direction": "vertical"
@@ -59,7 +66,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -185,17 +192,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "switcher:เปิด quick switcher": false,
+      "graph:เปิดมุมมองกราฟ": false,
+      "daily-notes:เปิดโน้ตของวันนี้": false,
+      "templates:แทรกเทมเพลต": false,
+      "command-palette:เปิดกระดานคำสั่ง": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false
     }
   },
+<<<<<<< HEAD
   "active": "6d763ce7827aadd5",
   "lastOpenFiles": [
     "กาลครั้งหนึ่ง...ถึงเธอ.md",
@@ -203,7 +211,16 @@
     "คำที่พูดมา เยียวยากว่าโซจู.md",
     "จิตวิทยาสบายใจ.md",
     "The Old Man and the Sea.md",
+=======
+  "active": "658fdb5a79f9c94c",
+  "lastOpenFiles": [
+>>>>>>> origin/main
     "Templates/tag3.md",
+    "The Old Man and the Sea.md",
+    "Paulo Coelho ภาพวาดแห่งสันติสุข.md",
+    "จิตวิทยาสบายใจ.md",
+    "กาลครั้งหนึ่ง...ถึงเธอ.md",
+    "คำที่พูดมา เยียวยากว่าโซจู.md",
     "Tasks/tag2.md",
     "Reports/tag1.md",
     "Templates",
